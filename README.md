@@ -1,16 +1,9 @@
 # Hey there, I'm Khai
 
-```ascii
-    ___________
-   /           \
-  /   ♪  ♫  ♪   \
- |  Code & Blues |
-  \    ♪  ♫  ♪  /
-   \___________/
-```
+
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyNHBtZGdkbnQ5ODFjaDg3YmlpMzRpZHVnb2dvdTlobTFucmQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DGvfK7SHzVZnt13qH/giphy.gif)
 
-## 🎵 About This Bluesman
+## 🎵 About me
 
 Just like **John Mayer** found his sound between pop and blues, I found mine between `code` and `creativity`. Every commit is a riff, every pull request is a jam session, and every bug fix? That's just paying my dues.
 
