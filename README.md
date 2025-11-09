@@ -5,7 +5,7 @@
 
 ## 🎵 About me
 
-Just like **John Mayer** found his sound between pop and blues, I found mine between code and creativity. Every commit is a lick, every pull request is a jam session, and every bug fix? That's just paying my dues.
+Just like John Mayer found his sound between pop and blues, I found mine between code and creativity. Every commit is a lick, every pull request is a jam session, and every bug fix? That's just paying my dues.
 
 **Currently spinning:**
 - Building scalable web applications with the soul of Beale Street
@@ -120,7 +120,6 @@ Like **BB King** said every guitar has a story - well, every repo here has a jou
 
 - **Email:** [khai.thduy@gmail.com](mailto:your.email@example.com)
 - **LinkedIn:** [https://www.linkedin.com/in/khaithduy/](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 - **About me:** [https://linktr.ee/khai.thduy](https://linktr.ee/ykhai.thduy)
 
 ```ascii
