@@ -31,27 +31,41 @@ Just like **John Mayer** found his sound between pop and blues, I found mine bet
 <tr>
 <td valign="top" width="50%">
 
-### 🎸 Lead Guitar (Frontend)
+### 🎸 Lead Guitar (Languages)
 ```javascript
-const skills = {
-  rhythm: ['HTML5', 'CSS3', 'JavaScript'],
-  lead: ['React', 'Vue.js', 'Next.js'],
-  effects: ['TailwindCSS', 'GSAP', 'Three.js'],
-  tone: ['TypeScript', 'Redux', 'Zustand']
+const languages = {
+  rhythm: ['JavaScript', 'Python'],
+  lead: ['C++', 'Java'],
+  soul: 'Code with feeling'
 }
+```
+
+### 🎺 Horn Section (Frameworks)
+```csharp
+var frameworks = new[] {
+    ".NET",        // The classic
+    "React Native" // Mobile blues
+};
 ```
 
 </td>
 <td valign="top" width="50%">
 
-### 🎺 Rhythm Section (Backend)
-```python
-blues_stack = {
-    'bassline': ['Node.js', 'Python', 'Go'],
-    'drums': ['Express', 'FastAPI', 'Django'],
-    'keys': ['PostgreSQL', 'MongoDB', 'Redis'],
-    'horns': ['Docker', 'AWS', 'CI/CD']
+### 🎹 Bass & Keys (Backend & Data)
+```javascript
+const backendStack = {
+  server: ['Node.js'],
+  database: ['MySQL', 'MongoDB'],
+  groove: 'Steady and reliable'
 }
+```
+
+### 🎤 Stage Setup (Tools)
+```bash
+# The foundation
+$ git commit -m "Another riff"
+$ git push origin main
+# Powered by: Git | GitHub | Node.js
 ```
 
 </td>
