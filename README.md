@@ -118,7 +118,7 @@ Like **BB King** said every guitar has a story - well, every repo here has a jou
 
 ## 🎹 Let's Jam Together
 
-- **Email:** [khai.thduy@example.com](mailto:your.email@example.com)
+- **Email:** [khai.thduy@gmail.com](mailto:your.email@example.com)
 - **LinkedIn:** [https://www.linkedin.com/in/khaithduy/](https://linkedin.com/in/yourprofile)
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 - **About me:** [https://linktr.ee/khai.thduy](https://linktr.ee/ykhai.thduy)
