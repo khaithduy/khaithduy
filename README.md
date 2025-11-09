@@ -8,7 +8,7 @@
   \    ♪  ♫  ♪  /
    \___________/
 ```
-!(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyNHBtZGdkbnQ5ODFjaDg3YmlpMzRpZHVnb2dvdTlobTFucmQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DGvfK7SHzVZnt13qH/giphy.gif)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyNHBtZGdkbnQ5ODFjaDg3YmlpMzRpZHVnb2dvdTlobTFucmQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DGvfK7SHzVZnt13qH/giphy.gif)
 
 ## 🎵 About This Bluesman
 
