@@ -1,4 +1,4 @@
-# Hey there, I'm Khai
+# Hey there, I'm Khai 
 
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyNHBtZGdkbnQ5ODFjaDg3YmlpMzRpZHVnb2dvdTlobTFucmQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DGvfK7SHzVZnt13qH/giphy.gif)
@@ -15,13 +15,13 @@ Just like **John Mayer** found his sound between pop and blues, I found mine bet
 
 ---
 
-## 🎼 My Tech Stack (The Gear)
+## 🎼 My Tech Stack (Gears)
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🎸 Guitar (Languages)
+### Guitar (Languages)
 ```javascript
 const languages = {
   rhythm: ['JavaScript', 'Python'],
@@ -30,7 +30,7 @@ const languages = {
 }
 ```
 
-### 🎺 Rhythm Section (Frameworks)
+### Rhythm Section (Frameworks)
 ```csharp
 var frameworks = new[] {
     ".NET",       
@@ -64,7 +64,7 @@ $ git push origin main
 
 ---
 
-## 📻 Recent Jams (Pinned Repos)
+## Recent Jams (Repositories)
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -78,7 +78,7 @@ $ git push origin main
 
 ---
 
-## 📊 The Numbers (Stats & Streaks)
+## The Numbers (Stats & Streaks)
 
 <div align="center">
 
@@ -118,10 +118,10 @@ Like **BB King** said every guitar has a story - well, every repo here has a jou
 
 ## 🎹 Let's Jam Together
 
-- 🎸 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🎵 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🎸 **Email:** [your.email@example.com](mailto:khai.thduy@example.com)
+- 🎵 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/khaithduy)
 - 🎺 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- 🎤 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- 🎤 **About me:** [@yourhandle](https://linktr.ee/khai.thduy)
 
 ```ascii
   ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
@@ -141,20 +141,10 @@ Like **BB King** said every guitar has a story - well, every repo here has a jou
 
 *Made with blues in my heart and code in my fingers*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=khaithduy)
 
 </div>
 
+#Feel free to contact me, even if we are strangers!
 ---
 
-```
-    _________________
-   /                 \
-  |  ♪  Thanks for   ♪ |
-  |  ♫  stopping by! ♫ |
-   \_________________/
-        |      |
-        |      |
-       /        \
-      /          \
-```
