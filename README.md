@@ -8,9 +8,7 @@
   \    ♪  ♫  ♪  /
    \___________/
 ```
-<p align="center">
-  <img src="[LINK_DEN_FILE_GIF_CUA_BAN.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyNHBtZGdkbnQ5ODFjaDg3YmlpMzRpZHVnb2dvdTlobTFucmQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DGvfK7SHzVZnt13qH/giphy.gif)" alt="Mô tả ảnh">
-</p>
+!(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyNHBtZGdkbnQ5ODFjaDg3YmlpMzRpZHVnb2dvdTlobTFucmQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3DGvfK7SHzVZnt13qH/giphy.gif)
 
 ## 🎵 About This Bluesman
 
