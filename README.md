@@ -8,8 +8,9 @@
   \    ♪  ♫  ♪  /
    \___________/
 ```
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I2N2llZXViN2Z2bjV3Mml6YTE3NHphbzMxZXVodzBiMHA3cGwwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBoysJgwhLEZtAjbY1/giphy.gif)
-
+<div align="center">
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF1YWQwNnNjcWFiZDkwb3JvN3FuZjhtdmw3NzFwOThydG03bmwycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yycP1pN2QtyqurJ0OA/giphy.gif)
+</div>
 ---
 
 ## 🎵 About This Bluesman
