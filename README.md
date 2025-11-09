@@ -5,13 +5,13 @@
 
 ## 🎵 About me
 
-Just like **John Mayer** found his sound between pop and blues, I found mine between `code` and `creativity`. Every commit is a riff, every pull request is a jam session, and every bug fix? That's just paying my dues.
+Just like **John Mayer** found his sound between pop and blues, I found mine between code and creativity. Every commit is a lick, every pull request is a jam session, and every bug fix? That's just paying my dues.
 
 **Currently spinning:**
 - Building scalable web applications with the soul of Beale Street
-- Crafting clean code that swings like a BB King solo
+- Crafting clean code that swings like a solo
 - Learning new frameworks faster than Stevie Ray learned licks
-- Contributing to open source - because blues is all about community
+- Contributing to open source
 
 ---
 
