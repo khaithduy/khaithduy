@@ -118,10 +118,10 @@ Like **BB King** said every guitar has a story - well, every repo here has a jou
 
 ## 🎹 Let's Jam Together
 
-- 🎸 **Email:** [your.email@example.com](mailto:khai.thduy@example.com)
-- 🎵 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/khaithduy)
-- 🎺 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- 🎤 **About me:** [@yourhandle](https://linktr.ee/khai.thduy)
+- **Email:** [your.email@example.com](mailto:khai.thduy@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/khaithduy)
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **About me:** [@yourhandle](https://linktr.ee/khai.thduy)
 
 ```ascii
   ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
@@ -137,7 +137,7 @@ Like **BB King** said every guitar has a story - well, every repo here has a jou
 
 <div align="center">
 
-### 🎸 Keep on coding, keep on playing 🎸
+### Keep on coding, keep on playing
 
 *Made with blues in my heart and code in my fingers*
 
