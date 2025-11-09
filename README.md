@@ -1,4 +1,4 @@
-# 🎸 Hey there, I'm [Your Name] 
+# Hey there, I'm Khai
 
 ```ascii
     ___________
@@ -8,8 +8,7 @@
   \    ♪  ♫  ♪  /
    \___________/
 ```
-
-> *"Sometimes you want to give up the guitar, you'll hate the guitar. But if you stick with it, you're gonna be rewarded."* - Jimi Hendrix
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2I2N2llZXViN2Z2bjV3Mml6YTE3NHphbzMxZXVodzBiMHA3cGwwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xBoysJgwhLEZtAjbY1/giphy.gif)
 
 ---
 
@@ -18,10 +17,10 @@
 Just like **John Mayer** found his sound between pop and blues, I found mine between `code` and `creativity`. Every commit is a riff, every pull request is a jam session, and every bug fix? That's just paying my dues.
 
 **Currently spinning:**
-- 🎺 Building scalable web applications with the soul of Beale Street
-- 🎸 Crafting clean code that swings like a BB King solo
-- 🎹 Learning new frameworks faster than Stevie Ray learned licks
-- 🎤 Contributing to open source - because blues is all about community
+- Building scalable web applications with the soul of Beale Street
+- Crafting clean code that swings like a BB King solo
+- Learning new frameworks faster than Stevie Ray learned licks
+- Contributing to open source - because blues is all about community
 
 ---
 
@@ -31,7 +30,7 @@ Just like **John Mayer** found his sound between pop and blues, I found mine bet
 <tr>
 <td valign="top" width="50%">
 
-### 🎸 Lead Guitar (Languages)
+### 🎸 Guitar (Languages)
 ```javascript
 const languages = {
   rhythm: ['JavaScript', 'Python'],
@@ -40,11 +39,11 @@ const languages = {
 }
 ```
 
-### 🎺 Horn Section (Frameworks)
+### 🎺 Rhythm Section (Frameworks)
 ```csharp
 var frameworks = new[] {
-    ".NET",        // The classic
-    "React Native" // Mobile blues
+    ".NET",       
+    "React Native" 
 };
 ```
 
@@ -65,7 +64,7 @@ const backendStack = {
 # The foundation
 $ git commit -m "Another riff"
 $ git push origin main
-# Powered by: Git | GitHub | Node.js
+
 ```
 
 </td>
@@ -78,12 +77,11 @@ $ git push origin main
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  🎵 Now Playing: My Greatest Hits                       │
+│   Now Playing: My Greatest Hits                         │
 ├─────────────────────────────────────────────────────────┤
-│  ► [Project Name]     - Full-stack blues application    │
-│  ► [Project Name]     - Open source contribution        │
-│  ► [Project Name]     - Personal portfolio site         │
-│  ► [Learning Notes]   - Code bootcamp & tutorials       │
+│  ► flashcard-app      - Full-stack blues application    │
+│  ► library-management - Library management system       │
+|                                                         |
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -92,6 +90,7 @@ $ git push origin main
 ## 📊 The Numbers (Stats & Streaks)
 
 <div align="center">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=4a90e2&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
 
